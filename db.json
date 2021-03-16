@@ -1,0 +1,952 @@
+{
+  "products": {
+    "sushi": [
+      {
+        "id": "sushi01",
+        "name": "Лосось",
+        "price": 95,
+        "img": "https://i.ibb.co/5Lmc192/sushi01.jpg",
+        "count": 0,
+        "description": "Вареный рис, лосось"
+      },
+      {
+        "id": "sushi02",
+        "name": "Авокадо",
+        "price": 80,
+        "img": "https://i.ibb.co/7NCnm2V/sushi02.jpg",
+        "count": 0,
+        "description": "Вареный рис, свежий авокадо"
+      },
+      {
+        "id": "sushi03",
+        "name": "Тунец",
+        "price": 110,
+        "img": "https://i.ibb.co/VWKcVqp/sushi03.jpg",
+        "count": 0,
+        "description": "Вареный рис, тунец"
+      },
+      {
+        "id": "sushi04",
+        "name": "Креветка",
+        "price": 95,
+        "img": "https://i.ibb.co/h2M9JhM/sushi04.jpg",
+        "count": 0,
+        "description": "Вареный рис, вареная креветка"
+      },
+      {
+        "id": "sushi05",
+        "name": "Лосось спайс",
+        "price": 110,
+        "img": "https://i.ibb.co/rbKMB0b/sushi06.jpg",
+        "count": 0,
+        "description": "Вареный рис, лосось, острый"
+      },
+      {
+        "id": "sushi06",
+        "name": "Креветка спайс",
+        "price": 95,
+        "img": "https://i.ibb.co/b51QvSp/sushi08.jpg",
+        "count": 0,
+        "description": "Вареный рис, креветка, острый"
+      },
+      {
+        "id": "sushi07",
+        "name": "Икра красная",
+        "price": 160,
+        "img": "https://i.ibb.co/2yHYXd7/sushi10.jpg",
+        "count": 0,
+        "description": "Вареный рис, красная икра"
+      }
+    ],
+    "sashimi": [
+      {
+        "id": "sashimi01",
+        "name": "Лосось",
+        "price": 365,
+        "img": "https://i.ibb.co/9n7rxL4/sashimi01.jpg",
+        "count": 0
+      },
+      {
+        "id": "sashimi02",
+        "name": "Тунец",
+        "price": 385,
+        "img": "https://i.ibb.co/4M7jLNj/sashimi02.jpg",
+        "count": 0
+      },
+      {
+        "id": "sashimi03",
+        "name": "Угорь",
+        "price": 395,
+        "img": "https://i.ibb.co/YjdrM0V/sashimi03.jpg",
+        "count": 0
+      },
+      {
+        "id": "sashimi04",
+        "name": "Желтохвост",
+        "price": 415,
+        "img": "https://i.ibb.co/yRf9LVL/sashimi04.jpg",
+        "count": 0
+      },
+      {
+        "id": "sashimi05",
+        "name": "Ассорти",
+        "price": 1150,
+        "img": "https://i.ibb.co/8XKKKRC/sashimi05.jpg",
+        "count": 0
+      }
+    ],
+    "roll": [
+      {
+        "id": "roll01",
+        "name": "Калифорния",
+        "price": 465,
+        "img": "https://i.ibb.co/gmX4Mfm/roll01.jpg",
+        "count": 0
+      },
+      {
+        "id": "roll02",
+        "name": "Филадельфия",
+        "price": 475,
+        "img": "https://i.ibb.co/3RJWdWw/roll02.jpg",
+        "count": 0
+      },
+      {
+        "id": "roll03",
+        "name": "Мексиканский",
+        "price": 395,
+        "img": "https://i.ibb.co/ns5bDD1/roll03.jpg",
+        "count": 0
+      },
+      {
+        "id": "roll04",
+        "name": "Сицилийский",
+        "price": 435,
+        "img": "https://i.ibb.co/1dKChtS/roll04.jpg",
+        "count": 0
+      },
+      {
+        "id": "roll05",
+        "name": "Чили тай",
+        "price": 425,
+        "img": "https://i.ibb.co/kxVSLVv/roll05.jpg",
+        "count": 0
+      },
+      {
+        "id": "roll06",
+        "name": "Сэнсэй",
+        "price": 425,
+        "img": "https://i.ibb.co/Srr6t5p/roll06.jpg",
+        "count": 0
+      },
+      {
+        "id": "roll07",
+        "name": "Фурай",
+        "price": 390,
+        "img": "https://i.ibb.co/wN4JHLp/roll07.jpg",
+        "count": 0
+      },
+      {
+        "id": "roll08",
+        "name": "Даку",
+        "price": 455,
+        "img": "https://i.ibb.co/TvgbdJW/roll08.jpg",
+        "count": 0
+      },
+      {
+        "id": "roll09",
+        "name": "Когасэ",
+        "price": 450,
+        "img": "https://i.ibb.co/pjxLRPt/roll09.jpg",
+        "count": 0
+      },
+      {
+        "id": "roll10",
+        "name": "Калифорния Дрим",
+        "price": 465,
+        "img": "https://i.ibb.co/6XL3BNW/roll10.jpg",
+        "count": 0
+      },
+      {
+        "id": "roll11",
+        "name": "Свит Юдзу",
+        "price": 495,
+        "img": "https://i.ibb.co/qskjtHh/roll11.jpg",
+        "count": 0
+      },
+      {
+        "id": "roll12",
+        "name": "Прайм",
+        "price": 475,
+        "img": "https://i.ibb.co/kK0JdSD/roll12.jpg",
+        "count": 0
+      },
+      {
+        "id": "roll13",
+        "name": "Теплый краб",
+        "price": 390,
+        "img": "https://i.ibb.co/VNLrDN3/roll13.jpg",
+        "count": 0
+      },
+      {
+        "id": "roll14",
+        "name": "Чеддер",
+        "price": 390,
+        "img": "https://i.ibb.co/m8GDsPY/roll14.jpg",
+        "count": 0
+      },
+      {
+        "id": "roll15",
+        "name": "Окинава",
+        "price": 390,
+        "img": "https://i.ibb.co/DgC5bRg/roll15.jpg",
+        "count": 0
+      }
+    ],
+    "set": [
+      {
+        "id": "set01",
+        "name": "Вегетарианский сет",
+        "price": 1135,
+        "img": "https://i.ibb.co/74dsvyr/set01.jpg",
+        "count": 0
+      },
+      {
+        "id": "set02",
+        "name": "Ultimate De Luxe",
+        "price": 3585,
+        "img": "https://i.ibb.co/5BMZ9rs/set02.jpg",
+        "count": 0
+      },
+      {
+        "id": "set03",
+        "name": "Сакана Сет",
+        "price": 1980,
+        "img": "https://i.ibb.co/vHqXQmw/set03.jpg",
+        "count": 0
+      },
+      {
+        "id": "set04",
+        "name": "Сумико сет",
+        "price": 1575,
+        "img": "https://i.ibb.co/Fkr2TdH/set04.jpg",
+        "count": 0
+      },
+      {
+        "id": "set05",
+        "name": "Мураками сет",
+        "price": 1550,
+        "img": "https://i.ibb.co/z5NPM91/set05.jpg",
+        "count": 0
+      },
+      {
+        "id": "set06",
+        "name": "Сатоши сет",
+        "price": 1955,
+        "img": "https://i.ibb.co/N9gHqQh/set06.jpg",
+        "count": 0
+      },
+      {
+        "id": "set07",
+        "name": "Фудзи сет",
+        "price": 1955,
+        "img": "https://i.ibb.co/NjN2z3L/set07.jpg",
+        "count": 0
+      },
+      {
+        "id": "set08",
+        "name": "Diamond De Luxe",
+        "price": 3395,
+        "img": "https://i.ibb.co/pZWWTG7/set09.jpg",
+        "count": 0
+      },
+      {
+        "id": "set09",
+        "name": "Party De Luxe",
+        "price": 6695,
+        "img": "https://i.ibb.co/t8T8QVT/set08.jpg",
+        "count": 0
+      }
+    ],
+    "salad": [
+      {
+        "id": "salad01",
+        "name": "Теплый салат с курицей и баклажанами",
+        "price": 395,
+        "img": "https://i.ibb.co/B2WZ7Jb/salad01.jpg",
+        "count": 0
+      },
+      {
+        "id": "salad02",
+        "name": "Авокадо хот",
+        "price": 355,
+        "img": "https://i.ibb.co/WB82T1z/salad02.jpg",
+        "count": 0
+      },
+      {
+        "id": "salad03",
+        "name": "Говядина со спаржей",
+        "price": 455,
+        "img": "https://i.ibb.co/jTGqMQ8/salad03.jpg",
+        "count": 0
+      },
+      {
+        "id": "salad04",
+        "name": "Кассай",
+        "price": 325,
+        "img": "https://i.ibb.co/X5fcFSM/salad04.jpg",
+        "count": 0
+      },
+      {
+        "id": "salad05",
+        "name": "Утка хойсин",
+        "price": 495,
+        "img": "https://i.ibb.co/K6HsfCW/salad05.jpg",
+        "count": 0
+      },
+      {
+        "id": "salad06",
+        "name": "Шинкаи",
+        "price": 445,
+        "img": "https://i.ibb.co/WKXyR8x/salad06.jpg",
+        "count": 0
+      },
+      {
+        "id": "salad07",
+        "name": "Эби грин",
+        "price": 495,
+        "img": "https://i.ibb.co/5B3sFqf/salad07.jpg",
+        "count": 0
+      },
+      {
+        "id": "salad08",
+        "name": "Цезарь с курицей",
+        "price": 395,
+        "img": "https://i.ibb.co/cX76Vzh/salad08.jpg",
+        "count": 0
+      },
+      {
+        "id": "salad09",
+        "name": "Цезарь с креветками",
+        "price": 425,
+        "img": "https://i.ibb.co/6HzJhyJ/salad09.jpg",
+        "count": 0
+      },
+      {
+        "id": "salad10",
+        "name": "Сендай",
+        "price": 325,
+        "img": "https://i.ibb.co/0hjWKmy/salad10.jpg",
+        "count": 0
+      },
+      {
+        "id": "salad11",
+        "name": "Кофу",
+        "price": 265,
+        "img": "https://i.ibb.co/HGQBkpt/salad11.jpg",
+        "count": 0
+      },
+      {
+        "id": "salad12",
+        "name": "Кумотори",
+        "price": 425,
+        "img": "https://i.ibb.co/CmHhgpc/salad12.jpg",
+        "count": 0
+      }
+    ],
+    "soup": [
+      {
+        "id": "soup01",
+        "name": "Рамен эби",
+        "price": 425,
+        "img": "https://i.ibb.co/X4ygn4N/soup01.jpg",
+        "count": 0
+      },
+      {
+        "id": "soup02",
+        "name": "Мисо суп",
+        "price": 115,
+        "img": "https://i.ibb.co/B65R3PZ/soup02.jpg",
+        "count": 0
+      },
+      {
+        "id": "soup03",
+        "name": "Суп с говядиной чили",
+        "price": 295,
+        "img": "https://i.ibb.co/6BQcJg3/soup03.jpg",
+        "count": 0
+      },
+      {
+        "id": "soup04",
+        "name": "Суп с лососем",
+        "price": 390,
+        "img": "https://i.ibb.co/Lz4FWkC/soup04.jpg",
+        "count": 0
+      },
+      {
+        "id": "soup05",
+        "name": "Чикен чиз",
+        "price": 295,
+        "img": "https://i.ibb.co/Qrxj3Tm/soup05.jpg",
+        "count": 0
+      },
+      {
+        "id": "soup06",
+        "name": "Суп с угрем",
+        "price": 395,
+        "img": "https://i.ibb.co/GF0Tb9C/soup06.jpg",
+        "count": 0
+      },
+      {
+        "id": "soup07",
+        "name": "Призма-чиз",
+        "price": 445,
+        "img": "https://i.ibb.co/YQ0qN64/soup07.jpg",
+        "count": 0
+      },
+      {
+        "id": "soup08",
+        "name": "Том кха",
+        "price": 295,
+        "img": "https://i.ibb.co/7ghsQMr/soup08.jpg",
+        "count": 0
+      },
+      {
+        "id": "soup09",
+        "name": "Рамен с курицей",
+        "price": 395,
+        "img": "https://i.ibb.co/z4MDKyB/soup09.jpg",
+        "count": 0
+      }
+    ],
+    "meal": [
+      {
+        "id": "meal01",
+        "name": "Биф Пеппер",
+        "price": 695,
+        "img": "https://i.ibb.co/4MXDLR2/meal01.jpg",
+        "count": 0
+      },
+      {
+        "id": "meal02",
+        "name": "Сибас со шпинатом",
+        "price": 615,
+        "img": "https://i.ibb.co/gPbpRb5/meal02.jpg",
+        "count": 0
+      },
+      {
+        "id": "meal03",
+        "name": "Лапша с креветками карри",
+        "price": 445,
+        "img": "https://i.ibb.co/Qcw2w7Y/meal03.jpg",
+        "count": 0
+      },
+      {
+        "id": "meal04",
+        "name": "Лосось тамаго",
+        "price": 625,
+        "img": "https://i.ibb.co/QrXyQhj/meal04.jpg",
+        "count": 0
+      },
+      {
+        "id": "meal05",
+        "name": "Овощи теплан",
+        "price": 185,
+        "img": "https://i.ibb.co/DpVw4x8/meal05.jpg",
+        "count": 0
+      },
+      {
+        "id": "meal06",
+        "name": "Томленная свинина",
+        "price": 695,
+        "img": "https://i.ibb.co/D9WkbJq/meal06.jpg",
+        "count": 0
+      },
+      {
+        "id": "meal07",
+        "name": "Кальмар Свит-чили",
+        "price": 425,
+        "img": "https://i.ibb.co/JcJPS4Y/meal07.jpg",
+        "count": 0
+      },
+      {
+        "id": "meal08",
+        "name": "Лапша Самбал-Бали",
+        "price": 455,
+        "img": "https://i.ibb.co/mBBJjWk/meal08.jpg",
+        "count": 0
+      },
+      {
+        "id": "meal09",
+        "name": "Тахян с беконом",
+        "price": 270,
+        "img": "https://i.ibb.co/99qds85/meal09.jpg",
+        "count": 0
+      },
+      {
+        "id": "meal10",
+        "name": "Тахян с говядиной",
+        "price": 295,
+        "img": "https://i.ibb.co/cD6jyZq/meal10.jpg",
+        "count": 0
+      },
+      {
+        "id": "meal11",
+        "name": "Тахян с курицей",
+        "price": 290,
+        "img": "https://i.ibb.co/GkJzDgL/meal11.jpg",
+        "count": 0
+      },
+      {
+        "id": "meal12",
+        "name": "Тахян с морепродуктами",
+        "price": 350,
+        "img": "https://i.ibb.co/fXdFSvf/meal12.jpg",
+        "count": 0
+      },
+      {
+        "id": "meal13",
+        "name": "Курица по-тайски с рисом",
+        "price": 360,
+        "img": "https://i.ibb.co/z8DCVNw/meal13.jpg",
+        "count": 0
+      },
+      {
+        "id": "meal14",
+        "name": "Угорь на рисе",
+        "price": 595,
+        "img": "https://i.ibb.co/HhWj4Nb/meal14.jpg",
+        "count": 0
+      },
+      {
+        "id": "meal15",
+        "name": "Лапша с морепродуктами",
+        "price": 395,
+        "img": "https://i.ibb.co/QMjBcSV/meal15.jpg",
+        "count": 0
+      },
+      {
+        "id": "meal16",
+        "name": "Лапша с курицей",
+        "price": 295,
+        "img": "https://i.ibb.co/YNn8fK6/meal16.jpg",
+        "count": 0
+      },
+      {
+        "id": "meal17",
+        "name": "Гречневая лапша с говядиной",
+        "price": 370,
+        "img": "https://i.ibb.co/DYb166Y/meal17.jpg",
+        "count": 0
+      },
+      {
+        "id": "meal18",
+        "name": "Семга на гриле",
+        "price": 695,
+        "img": "https://i.ibb.co/VpDwvqs/meal18.jpg",
+        "count": 0
+      },
+      {
+        "id": "meal19",
+        "name": "Призма-ассорти",
+        "price": 935,
+        "img": "https://i.ibb.co/4TSN5V8/meal19.jpg",
+        "count": 0
+      },
+      {
+        "id": "meal20",
+        "name": "Мидии васаби",
+        "price": 485,
+        "img": "https://i.ibb.co/0KMx6m4/meal20.jpg",
+        "count": 0
+      }
+    ],
+    "dessert": [
+      {
+        "id": "dessert01",
+        "name": "Вишневый супрем",
+        "price": 325,
+        "img": "https://i.ibb.co/CJnd4nN/dessert01.jpg",
+        "count": 0
+      },
+      {
+        "id": "dessert02",
+        "name": "Голден юдзу",
+        "price": 355,
+        "img": "https://i.ibb.co/QKNkR5G/dessert02.jpg",
+        "count": 0
+      },
+      {
+        "id": "dessert03",
+        "name": "Року сан",
+        "price": 295,
+        "img": "https://i.ibb.co/tPhFQzV/dessert03.jpg",
+        "count": 0
+      },
+      {
+        "id": "dessert04",
+        "name": "Куро ёру",
+        "price": 285,
+        "img": "https://i.ibb.co/JBYpZry/dessert04.jpg",
+        "count": 0
+      },
+      {
+        "id": "dessert05",
+        "name": "Наполеон-сан",
+        "price": 335,
+        "img": "https://i.ibb.co/QrdQhD6/dessert05.jpg",
+        "count": 0
+      },
+      {
+        "id": "dessert06",
+        "name": "Амаи миру",
+        "price": 295,
+        "img": "https://i.ibb.co/L8SNcX2/dessert06.jpg",
+        "count": 0
+      },
+      {
+        "id": "dessert07",
+        "name": "Манго чиа",
+        "price": 290,
+        "img": "https://i.ibb.co/ZV89y3r/dessert07.jpg",
+        "count": 0
+      },
+      {
+        "id": "dessert08",
+        "name": "Спелый ананас",
+        "price": 395,
+        "img": "https://i.ibb.co/DL1yV7C/dessert08.jpg",
+        "count": 0
+      },
+      {
+        "id": "dessert09",
+        "name": "Манила ролл",
+        "price": 285,
+        "img": "https://i.ibb.co/8Nq80TW/dessert09.jpg",
+        "count": 0
+      }
+    ],
+    "kids": [
+      {
+        "id": "kids01",
+        "name": "Kid's box с куриным бургером",
+        "price": 395,
+        "img": "https://i.ibb.co/CtDcHZQ/kids01.jpg",
+        "count": 0
+      },
+      {
+        "id": "kids02",
+        "name": "Kid's box с куриными наггетсами",
+        "price": 395,
+        "img": "https://i.ibb.co/9V0wwLR/kids02.jpg",
+        "count": 0
+      },
+      {
+        "id": "kids03",
+        "name": "Kid's box с шашлычками из креветок",
+        "price": 395,
+        "img": "https://i.ibb.co/mGpJNqD/kids03.jpg",
+        "count": 0
+      },
+      {
+        "id": "kids04",
+        "name": "Супчик с лососем",
+        "price": 220,
+        "img": "https://i.ibb.co/6NCDQ5N/kids04.jpg",
+        "count": 0
+      },
+      {
+        "id": "kids05",
+        "name": "Супчик с фрикадельками",
+        "price": 180,
+        "img": "https://i.ibb.co/NxbVn8Q/kids05.jpg",
+        "count": 0
+      },
+      {
+        "id": "kids06",
+        "name": "Пельмешки со сметаной",
+        "price": 165,
+        "img": "https://i.ibb.co/3rGG1dr/kids06.jpg",
+        "count": 0
+      },
+      {
+        "id": "kids07",
+        "name": "Куриные наггетсы с картофельным пюре",
+        "price": 235,
+        "img": "https://i.ibb.co/rw4Rcyz/kids07.jpg",
+        "count": 0
+      },
+      {
+        "id": "kids08",
+        "name": "Макароны с сыром",
+        "price": 150,
+        "img": "https://i.ibb.co/VqQKJJq/kids08.jpg",
+        "count": 0
+      },
+      {
+        "id": "kids09",
+        "name": "Картофельное пюре",
+        "price": 95,
+        "img": "https://i.ibb.co/Rcs6n1X/kids09.jpg",
+        "count": 0
+      },
+      {
+        "id": "kids10",
+        "name": "Картофель фри",
+        "price": 95,
+        "img": "https://i.ibb.co/6rPFr7Y/kids10.jpg",
+        "count": 0
+      },
+      {
+        "id": "kids11",
+        "name": "Бургер с курицей",
+        "price": 255,
+        "img": "https://i.ibb.co/RpB2pzJ/kids11.jpg",
+        "count": 0
+      },
+      {
+        "id": "kids12",
+        "name": "Сырные шарики с клюквенными соусом",
+        "price": 165,
+        "img": "https://i.ibb.co/Rgg73X9/kids12.jpg",
+        "count": 0
+      },
+      {
+        "id": "kids13",
+        "name": "Панкейки",
+        "price": 155,
+        "img": "https://i.ibb.co/d09XS1t/kids13.jpg",
+        "count": 0
+      }
+    ],
+    "vegetarian": [
+      {
+        "id": "vegetarian01",
+        "name": "Касай",
+        "price": 325,
+        "img": "https://i.ibb.co/X5fcFSM/salad04.jpg",
+        "count": 0
+      },
+      {
+        "id": "vegetarian02",
+        "name": "Авокадо",
+        "price": 80,
+        "img": "https://i.ibb.co/7NCnm2V/sushi02.jpg",
+        "count": 0
+      },
+      {
+        "id": "vegetarian03",
+        "name": "Ролл с авокадо",
+        "price": 110,
+        "img": "https://i.ibb.co/Z1fSBtD/vegetarian03.jpg",
+        "count": 0
+      },
+      {
+        "id": "vegetarian04",
+        "name": "Ролл с огурцом",
+        "price": 110,
+        "img": "https://i.ibb.co/mqZS56n/vegetarian04.jpg",
+        "count": 0
+      },
+      {
+        "id": "vegetarian05",
+        "name": "Киноа",
+        "price": 265,
+        "img": "https://i.ibb.co/7yJK3B7/vegetarian05.jpg",
+        "count": 0
+      },
+      {
+        "id": "vegetarian06",
+        "name": "Вегетарианский сет",
+        "price": 1135,
+        "img": "https://i.ibb.co/74dsvyr/set01.jpg",
+        "count": 0
+      },
+      {
+        "id": "vegetarian07",
+        "name": "Чука с орховым соусом",
+        "price": 295,
+        "img": "https://i.ibb.co/9ZYMmRP/vegetarian07.jpg",
+        "count": 0
+      },
+      {
+        "id": "vegetarian08",
+        "name": "Овощи Теплан",
+        "price": 185,
+        "img": "https://i.ibb.co/WB82T1z/salad02.jpg",
+        "count": 0
+      },
+      {
+        "id": "vegetarian09",
+        "name": "Овощи",
+        "price": 250,
+        "img": "https://i.ibb.co/h1n92FT/vegetarian09.jpg",
+        "count": 0
+      },
+      {
+        "id": "vegetarian10",
+        "name": "Эдамамэ салт",
+        "price": 180,
+        "img": "https://i.ibb.co/DW9wNgQ/vegetarian10.jpg",
+        "count": 0
+      }
+    ],
+    "drinks": [
+      {
+        "id": "drinks01",
+        "name": "Морошка",
+        "price": 395,
+        "img": "https://i.ibb.co/cXYY20G/drinks01.jpg",
+        "count": 0
+      },
+      {
+        "id": "drinks02",
+        "name": "Малина-манго",
+        "price": 395,
+        "img": "https://i.ibb.co/TT8k2hq/drinks02.jpg",
+        "count": 0
+      },
+      {
+        "id": "drinks03",
+        "name": "Облепиха-имбирь",
+        "price": 395,
+        "img": "https://i.ibb.co/4JfHLys/drinks03.jpg",
+        "count": 0
+      },
+      {
+        "id": "drinks04",
+        "name": "Нектарин-Маракуйя",
+        "price": 395,
+        "img": "https://i.ibb.co/5xddKrj/drinks04.jpg",
+        "count": 0
+      },
+      {
+        "id": "drinks05",
+        "name": "Малина-Вишня",
+        "price": 370,
+        "img": "https://i.ibb.co/Nn4jxNG/drinks05.jpg",
+        "count": 0
+      },
+      {
+        "id": "drinks06",
+        "name": "Медово-имбирный",
+        "price": 395,
+        "img": "https://i.ibb.co/2qY52Yz/drinks06.jpg",
+        "count": 0
+      },
+      {
+        "id": "drinks07",
+        "name": "Манго-Нектарин",
+        "price": 395,
+        "img": "https://i.ibb.co/xf34RmY/drinks07.jpg",
+        "count": 0
+      },
+      {
+        "id": "drinks08",
+        "name": "Клюква-Банан",
+        "price": 370,
+        "img": "https://i.ibb.co/t2cStxX/drinks08.jpg",
+        "count": 0
+      },
+      {
+        "id": "drinks09",
+        "name": "Дыня-Нектарин",
+        "price": 370,
+        "img": "https://i.ibb.co/pXZM3cn/drinks09.jpg",
+        "count": 0
+      },
+      {
+        "id": "drinks10",
+        "name": "Гавайский бриз",
+        "price": 490,
+        "img": "https://i.ibb.co/HGSZWcq/drinks10.jpg",
+        "count": 0
+      },
+      {
+        "id": "drinks11",
+        "name": "Японская груша",
+        "price": 490,
+        "img": "https://i.ibb.co/84r15pf/drinks11.jpg",
+        "count": 0
+      },
+      {
+        "id": "drinks12",
+        "name": "Ананасовый фреш",
+        "price": 750,
+        "img": "https://i.ibb.co/Ns4yyTt/drinks12.jpg",
+        "count": 0
+      },
+      {
+        "id": "drinks13",
+        "name": "Яблоко-Сельдерей",
+        "price": 490,
+        "img": "https://i.ibb.co/RYHDvdQ/drinks13.jpg",
+        "count": 0
+      },
+      {
+        "id": "drinks14",
+        "name": "Апельсиновый фреш",
+        "price": 490,
+        "img": "https://i.ibb.co/Ns4yyTt/drinks12.jpg",
+        "count": 0
+      },
+      {
+        "id": "drinks15",
+        "name": "Черничный морс",
+        "price": 230,
+        "img": "https://i.ibb.co/mqYL0yC/drinks15.jpg",
+        "count": 0
+      },
+      {
+        "id": "drinks16",
+        "name": "Аква минерале (без газа)",
+        "price": 170,
+        "img": "https://i.ibb.co/n3LgWqx/drinks16.jpg",
+        "count": 0
+      },
+      {
+        "id": "drinks17",
+        "name": "Аква минерале (с газом)",
+        "price": 170,
+        "img": "https://i.ibb.co/NT1H3FX/drinks17.jpg",
+        "count": 0
+      },
+      {
+        "id": "drinks18",
+        "name": "Пепси",
+        "price": 170,
+        "img": "https://i.ibb.co/3BQWGhx/drinks18.jpg",
+        "count": 0
+      },
+      {
+        "id": "drinks19",
+        "name": "Севен ап",
+        "price": 170,
+        "img": "https://i.ibb.co/7Cbx3SG/drinks19.jpg",
+        "count": 0
+      },
+      {
+        "id": "drinks20",
+        "name": "Миринда",
+        "price": 170,
+        "img": "https://i.ibb.co/F5Qt1K4/drinks20.jpg",
+        "count": 0
+      }
+    ],
+    "sauces": [
+      {
+        "id": "sauces01",
+        "name": "Васаби",
+        "price": 60,
+        "img": "https://i.ibb.co/D5FMZth/sauces01.jpg",
+        "count": 0
+      },
+      {
+        "id": "sauces02",
+        "name": "Имбирь",
+        "price": 30,
+        "img": "https://i.ibb.co/W3VSxLr/sauces02.jpg",
+        "count": 0
+      }
+    ]
+  }
+}
